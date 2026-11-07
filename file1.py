@@ -1,0 +1,1 @@
+print("Vijay is the young billionaire")
